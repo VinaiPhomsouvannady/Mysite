@@ -1,0 +1,28 @@
+
+body {
+    max-width: 800px;
+    background-color: lightpink; 
+    margin:auto;
+
+}
+#nav-table {
+    border:3px solid lightcoral;
+}
+
+#nav-td {
+    width: 800px;
+    text-align: center;
+}
+h1 {
+    color:green  
+}
+#pic {
+    width: 180px;
+}
+
+ .wrap {
+   float: right; 
+   margin: 5px;
+  }
+
+
